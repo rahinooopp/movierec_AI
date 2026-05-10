@@ -41,4 +41,4 @@ for page in range(1, 21):
 with open("movies.json", "w", encoding="utf-8") as file:
     json.dump(movies_data, file, indent=4)
 
-print(f"\n✅ Success! Saved {len(movies_data)} movies to 'movies.json'.")
+print(f"\n Success! Saved {len(movies_data)} movies to 'movies.json'.")
