@@ -52,7 +52,7 @@ const Header = () => {
       <div className="header__wrap container">
         <div className="logo">
           <img src={logo} alt="logo" />
-          <Link to={`/${Config.HOME_PAGE}`}>hMovies</Link>
+          <Link to={`/${Config.HOME_PAGE}`}>RAHINOO RECOMMENDER</Link>
         </div>
 
         <ul className="header__nav">
