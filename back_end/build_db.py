@@ -8,7 +8,7 @@ API_KEY = "086cfe05dd16828e37291d2f37293a38"
 
 movies_data = []
 
-print("Fetching movies from TMDB... / جاري سحب الأفلام...")
+print("Fetching movies from TMDB... .")
 
 #
 # Reason: We loop through the first 20 pages of TMDB popular movies (400 movies total)
